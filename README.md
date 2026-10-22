@@ -11,13 +11,13 @@
 
 ## 👋 Über mich
 
-Abgeleitet aus meinen GitHub-Projekten: Ich arbeite an der Schnittstelle von **Cybersecurity und KI** und baue Werkzeuge für **autorisiertes Pentesting, OSINT, Recon und Reporting** — von KI-gestützten Schwarm- und Agenten-Systemen (antbb, Cyber-Pentest-Swarm-AI, MCP-Agenten) über **Security-Dashboards und Web-Plattformen** (TypeScript/JavaScript) bis zu **WLAN-/Netzwerk-Tooling** und **CVE-/Linux-Kernel-Research**. Daneben entwickle ich **Lern- und Prüfungsplattformen** für Zertifizierungen (CompTIA, Linux, CISSP, Pentest+) sowie **Embedded-KI** (ESP32-S3/MicroPython). Ein roter Faden: Automatisierung mit KI, ein starker Fokus auf Datenschutz (DSGVO) und der Grundsatz, dass Security-Arbeit **nachvollziehbar und ausschließlich autorisiert** stattfindet.
+Abgeleitet aus meinen GitHub-Projekten: Ich arbeite an der Schnittstelle von **Cybersecurity und KI** und baue Werkzeuge für **autorisiertes Pentesting, OSINT, Recon und Reporting** — von KI-gestützten Schwarm- und Agenten-Systemen (antbb, Cyber-Pentest-Swarm-AI, MCP-Agenten) über **Security-Dashboards und Web-Plattformen** (TypeScript/JavaScript) bis zu **WLAN-/Netzwerk-Tooling**. Daneben entwickle ich **Lern- und Prüfungsplattformen** für Zertifizierungen (CompTIA, Linux, CISSP, Pentest+) sowie **Embedded-KI** (ESP32-S3/MicroPython). Ein roter Faden: Automatisierung mit KI, ein starker Fokus auf Datenschutz (DSGVO) und der Grundsatz, dass Security-Arbeit **nachvollziehbar und ausschließlich autorisiert** stattfindet.
 
 **🎯 Schwerpunkte**
 - 🔎 Pentest, OSINT &amp; Recon · autorisierte Offensive-Security
 - 🤖 KI-Agenten, Schwarm-Orchestrierung &amp; MCP-Tooling
 - 📊 Security-Dashboards, Reporting &amp; Web-Plattformen
-- 📡 WLAN-/Netzwerk-Analyse · 🧩 CVE- &amp; Kernel-Research
+- 📡 WLAN-/Netzwerk-Analyse
 - 🎓 Lern-/Prüfungsplattformen (CompTIA, Linux, CISSP, Pentest+)
 - 🦉 Embedded-KI (ESP32-S3 / MicroPython) · 🔐 Datenschutz &amp; DSGVO-Automatisierung
 
@@ -37,7 +37,6 @@ Abgeleitet aus meinen GitHub-Projekten: Ich arbeite an der Schnittstelle von **C
 | [**Cyber-Pentest-Swarm-AI**](https://github.com/krockodog/Cyber-Pentest-Swarm-AI) | 🐍 Python | KI-Schwarm-Ansatz für koordinierte, autorisierte Pentest-Automatisierung. |
 | [**Cybersecurity-Gym**](https://github.com/krockodog/Cybersecurity-Gym) | 🟦 TypeScript | Trainings-/Lernplattform, um Security-Skills praxisnah zu üben. |
 | [**LinuxKX0-006**](https://github.com/krockodog/LinuxKX0-006) | 🟨 JavaScript | Lern- und Übungsprojekt rund um Linux-Zertifizierungsinhalte. |
-| [**copy-fail-CVE-2026-31431**](https://github.com/krockodog/copy-fail-CVE-2026-31431) | 🐍 Python | Fork: Analyse/PoC zu einer Linux-Kernel-LPE (CVE-2026-31431), gefunden von Theori's Xint. |
 
 🐜 **Privates Flaggschiff:** *Ameisen-Bug-Bounty-Plattform (antbb)* — eine KI-gestützte Schwarm-Pentest-Plattform (Königin + 18 Agenten). *Privates Repo, daher ohne öffentliche Details.*
 
