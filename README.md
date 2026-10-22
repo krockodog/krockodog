@@ -9,13 +9,24 @@
 
 ---
 
-## 👋 Willkommen
+## 👋 Über mich
 
-Ich entwickle **Cybersecurity-Werkzeuge und KI-gestützte Automatisierung** — von Pentest- und OSINT-Tooling über Lern- und Trainingsplattformen bis hin zu Embedded-KI-Projekten. Mein Schwerpunkt: Tools, die **verantwortungsvoll, nachvollziehbar und ausschließlich im autorisierten Rahmen** arbeiten.
+Abgeleitet aus meinen GitHub-Projekten: Ich arbeite an der Schnittstelle von **Cybersecurity und KI** und baue Werkzeuge für **autorisiertes Pentesting, OSINT, Recon und Reporting** — von KI-gestützten Schwarm- und Agenten-Systemen (antbb, Cyber-Pentest-Swarm-AI, MCP-Agenten) über **Security-Dashboards und Web-Plattformen** (TypeScript/JavaScript) bis zu **WLAN-/Netzwerk-Tooling** und **CVE-/Linux-Kernel-Research**. Daneben entwickle ich **Lern- und Prüfungsplattformen** für Zertifizierungen (CompTIA, Linux, CISSP, Pentest+) sowie **Embedded-KI** (ESP32-S3/MicroPython). Ein roter Faden: Automatisierung mit KI, ein starker Fokus auf Datenschutz (DSGVO) und der Grundsatz, dass Security-Arbeit **nachvollziehbar und ausschließlich autorisiert** stattfindet.
+
+**🎯 Schwerpunkte**
+- 🔎 Pentest, OSINT &amp; Recon · autorisierte Offensive-Security
+- 🤖 KI-Agenten, Schwarm-Orchestrierung &amp; MCP-Tooling
+- 📊 Security-Dashboards, Reporting &amp; Web-Plattformen
+- 📡 WLAN-/Netzwerk-Analyse · 🧩 CVE- &amp; Kernel-Research
+- 🎓 Lern-/Prüfungsplattformen (CompTIA, Linux, CISSP, Pentest+)
+- 🦉 Embedded-KI (ESP32-S3 / MicroPython) · 🔐 Datenschutz &amp; DSGVO-Automatisierung
+
+**🧰 Tech-Stack**
+- **Sprachen:** Python, TypeScript, JavaScript, Shell, C
+- **Web/API:** FastAPI, moderne TS/JS-Frontends · **Embedded:** ESP32-S3, MicroPython
+- **KI:** Agenten-/Swarm-Systeme, MCP, OpenAI-kompatible/Anthropic/lokale (Ollama) Backends
 
 > ⚖️ **Verantwortungsvolles Arbeiten:** Alle Security-Projekte sind für **autorisierte Penetrationstests und Bug-Bounty mit ausdrücklicher Erlaubnis** gedacht. Unbefugter Zugriff ist strafbar (§ 202a–c StGB / CFAA).
-
----
 
 ## 🚀 Projekte
 
