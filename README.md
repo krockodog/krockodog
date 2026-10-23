@@ -50,11 +50,11 @@ Mein **All and One** vereint drei Königinnen unter einem Dach — orchestrierte
 
 Darüber liegt das gemeinsame **Neural Brain** als nachvollziehbares Superhirn — mit Logs, damit jede Entscheidung der Königinnen und der Teams sichtbar bleibt. Skills und Playbooks sind gebrandet eingebaut; pro Königin lassen sich eigene Skills/Playbooks hinzufügen, erstellen und löschen. AI-Anbieter sind pro Königin frei zuweisbar.
 
-*Privates Flaggschiff — öffentliches Repo folgt, sobald ich es freigebe. Bis dahin: lokal, autorisiert, ohne öffentlichen Code.*
+▶️ **Repo: [krockodog/antbb-framework](https://github.com/krockodog/antbb-framework)** — die vereinte Plattform (Rot · Blau · Gelb + Neural Brain), lokal baubar (`git clone` → `./install.sh` → Start). Nur für autorisierte Security-Arbeit.
 
 Verwandte öffentliche Bausteine:
 - [**ameisen-bug-bounty-plattform**](https://github.com/krockodog/ameisen-bug-bounty-plattform) · antbb Schwarm-Pentest-Plattform
-- [**antbb-framework**](https://github.com/krockodog/antbb-framework) · antbb Framework (lokal, autorisiert)
+- [**antbb-framework**](https://github.com/krockodog/antbb-framework) · 🚩 All and One — RED·BLUE·Yellow-Ant-Team (lokal baubar, autorisiert)
 
 ---
 
