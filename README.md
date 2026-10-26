@@ -54,7 +54,6 @@ Darüber liegt das gemeinsame **Neural Brain** als nachvollziehbares Superhirn �
 
 Verwandte öffentliche Bausteine:
 - [**ameisen-bug-bounty-plattform**](https://github.com/krockodog/ameisen-bug-bounty-plattform) · antbb Schwarm-Pentest-Plattform
-- [**antbb-framework**](https://github.com/krockodog/antbb-framework) · 🚩 All and One — RED·BLUE·Yellow-Ant-Team (lokal baubar, autorisiert)
 
 ---
 
