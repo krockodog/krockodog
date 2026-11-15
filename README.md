@@ -2,10 +2,16 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/netz-dunkel.gif">
-    <img src="assets/netz-hell.gif" alt="Netzwerk-Animation" width="400" />
+    <img src="assets/netz-hell.gif" alt="Netzwerk-Animation" width="140" align="left" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/netz-dunkel.gif">
+    <img src="assets/netz-hell.gif" alt="Netzwerk-Animation" width="140" align="right" />
+  </picture>
+  <br/><br/>
+  <b>Cybersecurity · Autorisierte Pentests · Security-Tooling · Lernplattformen</b>
 </p>
-<p align="center"><b>Cybersecurity · Autorisierte Pentests · Security-Tooling · Lernplattformen</b></p>
+<br clear="both"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fokus-Cybersecurity-0a7cff?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
