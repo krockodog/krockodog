@@ -1,6 +1,10 @@
 <h1 align="center">🛡️ krockodog</h1>
-<path stroke-linecap="butt" stroke-linejoin="miter" fill-opacity="0" stroke-miterlimit="4" stroke="rgb(22,24,65)" stroke-opacity="1" stroke-width="2" d=" M102.67935180664062,-85.57290649414062 C102.67935180664062,-85.57290649414062 28.149677276611328,88 28.149677276611328,88 C28.149677276611328,88 202.32838439941406,67.12903594970703 202.32838439941406,67.12903594970703">
-</path>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/netz-dunkel.gif">
+    <img src="assets/netz-hell.gif" alt="Netzwerk-Animation" width="400" />
+  </picture>
+</p>
 <p align="center"><b>Cybersecurity · Autorisierte Pentests · Security-Tooling · Lernplattformen</b></p>
 
 <p align="center">
