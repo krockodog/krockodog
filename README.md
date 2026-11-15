@@ -1,4 +1,9 @@
-<h1 align="center">🛡️ krockodog</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/titel-dunkel.gif">
+    <img src="assets/titel-hell.gif" alt="KROCKODOG — Cybersecurity · Autorisierte Pentests · Security-Tooling · Lernplattformen" width="800" />
+  </picture>
+</h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/netz-dunkel.gif">
@@ -9,14 +14,10 @@
     <img src="assets/netz-hell.gif" alt="Netzwerk-Animation" width="140" align="right" />
   </picture>
   <br/><br/>
-  <b>Cybersecurity · Autorisierte Pentests · Security-Tooling · Lernplattformen</b>
-</p>
-<br clear="both"/>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Fokus-Cybersecurity-0a7cff?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Arbeit-nur%20autorisiert-2ea44f?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Autorisiert"/>
 </p>
+<br clear="both"/>
 
 ---
 ## 👋 Über mich
